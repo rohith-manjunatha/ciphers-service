@@ -1,1 +1,3 @@
 .virtual-environment/
+.ciphers_project/ciphers_project/__pycache__/
+.ciphers_project/api/__pycache__/
